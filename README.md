@@ -1,18 +1,17 @@
- FileResizer (macOS)
+# PixelPress
 
-A fast macOS drag-and-drop image resizer written in SwiftUI.
+PixelPress is a macOS app built with SwiftUI for batch image resizing and compression.
 
-Features
-• Batch image resizing
-• Folder support
-• Target file size compression
-• Adjustable JPEG quality
-• Progress tracking
+## Features
+- Batch image resizing
+- Target KB compression
+- Progress tracking
+- Simple macOS interface
 
-Built with Swift + SwiftUI.
+## Built With
+- Swift
+- SwiftUI
+- Xcode
 
-## Usage
-Drag images or folders into the app and export optimized versions.
-
-## License
-MIT
+## Status
+Currently in active development.
